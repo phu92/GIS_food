@@ -122,9 +122,9 @@ def get_predection(image, net, LABELS, COLORS):
     return image, classIDs
 
 
-labelsPath = "weights/obj_c2.names"
-cfgpath = "weights/yolov3_china2.cfg"
-wpath = "weights/yolov3_11.09_final.weights"
+labelsPath = "data/obj_c2.names"
+cfgpath = "data/yolov3_china2.cfg"
+wpath = "data/yolov3_11.09_final.weights"
 
 Lables = get_labels(labelsPath)
 CFG = get_config(cfgpath)

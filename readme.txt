@@ -6,6 +6,8 @@
 2. 아래 링크에서 가중치를 저장한 뒤 data 폴더에 넣고 run하면 정상 작동합니다.(파이참 기준)
 https://drive.google.com/file/d/1Fhug0s_wgZTGXXMvVso9K-vfmxMFo5Vr/view?usp=sharing
 
+파일 명 : yolov3_11.09_final.weights
+
 7개의 라벨 데이터 구별 가능
 ['닭강정', '짜장면', '짬뽕', '탕수육', '단무지', '만두', '라볶이']
 
